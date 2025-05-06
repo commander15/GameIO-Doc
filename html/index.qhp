@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+<namespace>com.gameio</namespace>
+<virtualFolder>docs</virtualFolder>
+<filterSection>
+<filterAttribute>doxygen</filterAttribute>
+<toc>
+<section title="GameIO 2.0.0" ref="index.html">
+<section title="🚀 Features" ref="index.html#autotoc_md1"/>
+<section title="📂 API" ref="index.html#autotoc_md3"/>
+<section title="🛠️ Usage" ref="index.html#autotoc_md5">
+<section title="QML Example" ref="index.html#autotoc_md6"/>
+<section title="C++ Example" ref="index.html#autotoc_md7"/>
+</section>
+<section title="📄 License" ref="index.html#autotoc_md9"/>
+<section title="👤 Author" ref="index.html#autotoc_md11"/>
+<section title="Classes" ref="annotated.html">
+<section title="Class List" ref="annotated.html">
+<section title="GameIO" ref="">
+<section title="Gamepad" ref="class_game_i_o_1_1_gamepad.html">
+<section title="Gamepad" ref="class_game_i_o_1_1_gamepad.html#aa43f471f1d885be3547910deb8685bd0"/>
+<section title="~Gamepad" ref="class_game_i_o_1_1_gamepad.html#a5d488c36c656a0f52787671b9b156822"/>
+<section title="deviceId" ref="class_game_i_o_1_1_gamepad.html#ad6d56e8a30c64fe605c1047c44635d9a"/>
+<section title="setDeviceId" ref="class_game_i_o_1_1_gamepad.html#ab2f44f154ed4aa6749f0a8e91c072c6a"/>
+<section title="name" ref="class_game_i_o_1_1_gamepad.html#a43e1aa146ab336411c665f5f5bc59da4"/>
+<section title="isConnected" ref="class_game_i_o_1_1_gamepad.html#a33d4dbd503a8d645885bd19cbc390a91"/>
+<section title="ledRed" ref="class_game_i_o_1_1_gamepad.html#abd3bbcac323ff77c30a094a40444f370"/>
+<section title="ledGreen" ref="class_game_i_o_1_1_gamepad.html#a11781fc8a6d4a26aab304d06c413d449"/>
+<section title="ledBlue" ref="class_game_i_o_1_1_gamepad.html#a338b0072d62324023f79e9174c97c271"/>
+<section title="setLedColor" ref="class_game_i_o_1_1_gamepad.html#aabe235f8a568d63cbfe080af75353dc8"/>
+<section title="vibrate" ref="class_game_i_o_1_1_gamepad.html#ab8c00f3b6108b68941ed5465458a40cf"/>
+<section title="buttonLeft" ref="class_game_i_o_1_1_gamepad.html#a8e6ab2d680fe77ce83eeed87a8a5ad30"/>
+<section title="buttonRight" ref="class_game_i_o_1_1_gamepad.html#a614612c0d7ff7d8251d833cb7d239353"/>
+<section title="buttonUp" ref="class_game_i_o_1_1_gamepad.html#aa984b000327d066303304baabe59742c"/>
+<section title="buttonDown" ref="class_game_i_o_1_1_gamepad.html#a6908032c459cd72608a3426d6cb9d09c"/>
+<section title="buttonX" ref="class_game_i_o_1_1_gamepad.html#a8214e79380ec2ed23a2b9575f47c90a2"/>
+<section title="buttonY" ref="class_game_i_o_1_1_gamepad.html#a6d672d1e95bc4c35844515ff41b81228"/>
+<section title="buttonA" ref="class_game_i_o_1_1_gamepad.html#add560ec44b17105f299b40a837075b15"/>
+<section title="buttonB" ref="class_game_i_o_1_1_gamepad.html#a1d7712953bf4498d3f9a92859d5be1e8"/>
+<section title="buttonL1" ref="class_game_i_o_1_1_gamepad.html#acc8230362fdf2c128634f57d55e069a8"/>
+<section title="buttonL2" ref="class_game_i_o_1_1_gamepad.html#a726b548c88792a05d8f31b9b1b00bf94"/>
+<section title="buttonL3" ref="class_game_i_o_1_1_gamepad.html#ac15e9fa1ea995675b27c779fe8b7d487"/>
+<section title="buttonR1" ref="class_game_i_o_1_1_gamepad.html#ad606fea0455e8a5bb39ec49211bf1b00"/>
+<section title="buttonR2" ref="class_game_i_o_1_1_gamepad.html#a56be5309c382f582b47e7d2fbf066e11"/>
+<section title="buttonR3" ref="class_game_i_o_1_1_gamepad.html#a4586b8493292c24d3cb2585ae5ec04ed"/>
+<section title="buttonSelect" ref="class_game_i_o_1_1_gamepad.html#aa49140402a8d9f1e33ce9cf9590bc27a"/>
+<section title="buttonStart" ref="class_game_i_o_1_1_gamepad.html#abb13c9cd8e4faa8817ef1abbc763bb5e"/>
+<section title="buttonCenter" ref="class_game_i_o_1_1_gamepad.html#ac28cb8fb79e809804ea626728fe79d54"/>
+<section title="buttonGuide" ref="class_game_i_o_1_1_gamepad.html#a6802cdb600aba6b3bb7703f596c50786"/>
+<section title="axisLeftX" ref="class_game_i_o_1_1_gamepad.html#a89dd72f6c2bcaf6bb48741d097f99eb4"/>
+<section title="axisLeftY" ref="class_game_i_o_1_1_gamepad.html#a1d84a709e2972c52d9b53614fdf1a8e4"/>
+<section title="axisRightX" ref="class_game_i_o_1_1_gamepad.html#a2eade2c415c2af09aeb52e0980e96784"/>
+<section title="axisRightY" ref="class_game_i_o_1_1_gamepad.html#a482b8fac0c8b4577bce0c2a1413292d3"/>
+</section>
+<section title="GamepadManager" ref="class_game_i_o_1_1_gamepad_manager.html">
+<section title="gamepadName" ref="class_game_i_o_1_1_gamepad_manager.html#a75a047f3d3ae5c8bc2390a476c7c591d"/>
+<section title="isGamepadConnected" ref="class_game_i_o_1_1_gamepad_manager.html#aaa54e8f98a8c82cac786834c3f13bc26"/>
+<section title="connectedGamepads" ref="class_game_i_o_1_1_gamepad_manager.html#ad4d9c7c967c09d91a80daa7656226f8a"/>
+</section>
+</section>
+</section>
+<section title="Class Index" ref="classes.html"/>
+<section title="Class Hierarchy" ref="hierarchy.html">
+<section title="GameIO::Gamepad" ref="class_game_i_o_1_1_gamepad.html"/>
+<section title="GameIO::GamepadManager" ref="class_game_i_o_1_1_gamepad_manager.html"/>
+</section>
+<section title="Class Members" ref="functions.html">
+<section title="All" ref="functions.html"/>
+<section title="Functions" ref="functions_func.html"/>
+</section>
+</section>
+</section>
+</toc>
+<keywords>
+<keyword name="GameIO::Gamepad" id="GameIO::Gamepad_" ref="class_game_i_o_1_1_gamepad.html"/>
+<keyword name="GameIO::GamepadManager" id="GameIO::GamepadManager_" ref="class_game_i_o_1_1_gamepad_manager.html"/>
+<keyword name="axisLeftX() const" id="GameIO::Gamepad::axisLeftX_a89dd72f6c2bcaf6bb48741d097f99eb4" ref="class_game_i_o_1_1_gamepad.html#a89dd72f6c2bcaf6bb48741d097f99eb4"/>
+<keyword name="axisLeftY() const" id="GameIO::Gamepad::axisLeftY_a1d84a709e2972c52d9b53614fdf1a8e4" ref="class_game_i_o_1_1_gamepad.html#a1d84a709e2972c52d9b53614fdf1a8e4"/>
+<keyword name="axisRightX() const" id="GameIO::Gamepad::axisRightX_a2eade2c415c2af09aeb52e0980e96784" ref="class_game_i_o_1_1_gamepad.html#a2eade2c415c2af09aeb52e0980e96784"/>
+<keyword name="axisRightY() const" id="GameIO::Gamepad::axisRightY_a482b8fac0c8b4577bce0c2a1413292d3" ref="class_game_i_o_1_1_gamepad.html#a482b8fac0c8b4577bce0c2a1413292d3"/>
+<keyword name="buttonA() const" id="GameIO::Gamepad::buttonA_add560ec44b17105f299b40a837075b15" ref="class_game_i_o_1_1_gamepad.html#add560ec44b17105f299b40a837075b15"/>
+<keyword name="buttonB() const" id="GameIO::Gamepad::buttonB_a1d7712953bf4498d3f9a92859d5be1e8" ref="class_game_i_o_1_1_gamepad.html#a1d7712953bf4498d3f9a92859d5be1e8"/>
+<keyword name="buttonCenter() const" id="GameIO::Gamepad::buttonCenter_ac28cb8fb79e809804ea626728fe79d54" ref="class_game_i_o_1_1_gamepad.html#ac28cb8fb79e809804ea626728fe79d54"/>
+<keyword name="buttonDown() const" id="GameIO::Gamepad::buttonDown_a6908032c459cd72608a3426d6cb9d09c" ref="class_game_i_o_1_1_gamepad.html#a6908032c459cd72608a3426d6cb9d09c"/>
+<keyword name="buttonGuide() const" id="GameIO::Gamepad::buttonGuide_a6802cdb600aba6b3bb7703f596c50786" ref="class_game_i_o_1_1_gamepad.html#a6802cdb600aba6b3bb7703f596c50786"/>
+<keyword name="buttonL1() const" id="GameIO::Gamepad::buttonL1_acc8230362fdf2c128634f57d55e069a8" ref="class_game_i_o_1_1_gamepad.html#acc8230362fdf2c128634f57d55e069a8"/>
+<keyword name="buttonL2() const" id="GameIO::Gamepad::buttonL2_a726b548c88792a05d8f31b9b1b00bf94" ref="class_game_i_o_1_1_gamepad.html#a726b548c88792a05d8f31b9b1b00bf94"/>
+<keyword name="buttonL3() const" id="GameIO::Gamepad::buttonL3_ac15e9fa1ea995675b27c779fe8b7d487" ref="class_game_i_o_1_1_gamepad.html#ac15e9fa1ea995675b27c779fe8b7d487"/>
+<keyword name="buttonLeft() const" id="GameIO::Gamepad::buttonLeft_a8e6ab2d680fe77ce83eeed87a8a5ad30" ref="class_game_i_o_1_1_gamepad.html#a8e6ab2d680fe77ce83eeed87a8a5ad30"/>
+<keyword name="buttonR1() const" id="GameIO::Gamepad::buttonR1_ad606fea0455e8a5bb39ec49211bf1b00" ref="class_game_i_o_1_1_gamepad.html#ad606fea0455e8a5bb39ec49211bf1b00"/>
+<keyword name="buttonR2() const" id="GameIO::Gamepad::buttonR2_a56be5309c382f582b47e7d2fbf066e11" ref="class_game_i_o_1_1_gamepad.html#a56be5309c382f582b47e7d2fbf066e11"/>
+<keyword name="buttonR3() const" id="GameIO::Gamepad::buttonR3_a4586b8493292c24d3cb2585ae5ec04ed" ref="class_game_i_o_1_1_gamepad.html#a4586b8493292c24d3cb2585ae5ec04ed"/>
+<keyword name="buttonRight() const" id="GameIO::Gamepad::buttonRight_a614612c0d7ff7d8251d833cb7d239353" ref="class_game_i_o_1_1_gamepad.html#a614612c0d7ff7d8251d833cb7d239353"/>
+<keyword name="buttonSelect() const" id="GameIO::Gamepad::buttonSelect_aa49140402a8d9f1e33ce9cf9590bc27a" ref="class_game_i_o_1_1_gamepad.html#aa49140402a8d9f1e33ce9cf9590bc27a"/>
+<keyword name="buttonStart() const" id="GameIO::Gamepad::buttonStart_abb13c9cd8e4faa8817ef1abbc763bb5e" ref="class_game_i_o_1_1_gamepad.html#abb13c9cd8e4faa8817ef1abbc763bb5e"/>
+<keyword name="buttonUp() const" id="GameIO::Gamepad::buttonUp_aa984b000327d066303304baabe59742c" ref="class_game_i_o_1_1_gamepad.html#aa984b000327d066303304baabe59742c"/>
+<keyword name="buttonX() const" id="GameIO::Gamepad::buttonX_a8214e79380ec2ed23a2b9575f47c90a2" ref="class_game_i_o_1_1_gamepad.html#a8214e79380ec2ed23a2b9575f47c90a2"/>
+<keyword name="buttonY() const" id="GameIO::Gamepad::buttonY_a6d672d1e95bc4c35844515ff41b81228" ref="class_game_i_o_1_1_gamepad.html#a6d672d1e95bc4c35844515ff41b81228"/>
+<keyword name="connectedGamepads() const" id="GameIO::GamepadManager::connectedGamepads_ad4d9c7c967c09d91a80daa7656226f8a" ref="class_game_i_o_1_1_gamepad_manager.html#ad4d9c7c967c09d91a80daa7656226f8a"/>
+<keyword name="deviceId() const" id="GameIO::Gamepad::deviceId_ad6d56e8a30c64fe605c1047c44635d9a" ref="class_game_i_o_1_1_gamepad.html#ad6d56e8a30c64fe605c1047c44635d9a"/>
+<keyword name="Gamepad(int id=0, QObject *parent=nullptr)" id="GameIO::Gamepad::Gamepad_aa43f471f1d885be3547910deb8685bd0" ref="class_game_i_o_1_1_gamepad.html#aa43f471f1d885be3547910deb8685bd0"/>
+<keyword name="gamepadName(int id) const" id="GameIO::GamepadManager::gamepadName_a75a047f3d3ae5c8bc2390a476c7c591d" ref="class_game_i_o_1_1_gamepad_manager.html#a75a047f3d3ae5c8bc2390a476c7c591d"/>
+<keyword name="instance()" id="GameIO::GamepadManager::instance_a2c2d92b67decc930f8b4f25bdb9cc553" ref="class_game_i_o_1_1_gamepad_manager.html#a2c2d92b67decc930f8b4f25bdb9cc553"/>
+<keyword name="isConnected() const" id="GameIO::Gamepad::isConnected_a33d4dbd503a8d645885bd19cbc390a91" ref="class_game_i_o_1_1_gamepad.html#a33d4dbd503a8d645885bd19cbc390a91"/>
+<keyword name="isGamepadConnected(int id) const" id="GameIO::GamepadManager::isGamepadConnected_aaa54e8f98a8c82cac786834c3f13bc26" ref="class_game_i_o_1_1_gamepad_manager.html#aaa54e8f98a8c82cac786834c3f13bc26"/>
+<keyword name="ledBlue() const" id="GameIO::Gamepad::ledBlue_a338b0072d62324023f79e9174c97c271" ref="class_game_i_o_1_1_gamepad.html#a338b0072d62324023f79e9174c97c271"/>
+<keyword name="ledGreen() const" id="GameIO::Gamepad::ledGreen_a11781fc8a6d4a26aab304d06c413d449" ref="class_game_i_o_1_1_gamepad.html#a11781fc8a6d4a26aab304d06c413d449"/>
+<keyword name="ledRed() const" id="GameIO::Gamepad::ledRed_abd3bbcac323ff77c30a094a40444f370" ref="class_game_i_o_1_1_gamepad.html#abd3bbcac323ff77c30a094a40444f370"/>
+<keyword name="name() const" id="GameIO::Gamepad::name_a43e1aa146ab336411c665f5f5bc59da4" ref="class_game_i_o_1_1_gamepad.html#a43e1aa146ab336411c665f5f5bc59da4"/>
+<keyword name="setDeviceId(int id)" id="GameIO::Gamepad::setDeviceId_ab2f44f154ed4aa6749f0a8e91c072c6a" ref="class_game_i_o_1_1_gamepad.html#ab2f44f154ed4aa6749f0a8e91c072c6a"/>
+<keyword name="setLedColor(int red, int green, int blue)" id="GameIO::Gamepad::setLedColor_aabe235f8a568d63cbfe080af75353dc8" ref="class_game_i_o_1_1_gamepad.html#aabe235f8a568d63cbfe080af75353dc8"/>
+<keyword name="vibrate(float strength, int duration)" id="GameIO::Gamepad::vibrate_ab8c00f3b6108b68941ed5465458a40cf" ref="class_game_i_o_1_1_gamepad.html#ab8c00f3b6108b68941ed5465458a40cf"/>
+<keyword name="~Gamepad()" id="GameIO::Gamepad::~Gamepad_a5d488c36c656a0f52787671b9b156822" ref="class_game_i_o_1_1_gamepad.html#a5d488c36c656a0f52787671b9b156822"/>
+</keywords>
+<files>
+<file>annotated.html</file>
+<file>bc_s.png</file>
+<file>bc_sd.png</file>
+<file>class_game_i_o_1_1_gamepad-members.html</file>
+<file>class_game_i_o_1_1_gamepad.html</file>
+<file>class_game_i_o_1_1_gamepad_manager-members.html</file>
+<file>class_game_i_o_1_1_gamepad_manager.html</file>
+<file>classes.html</file>
+<file>closed.png</file>
+<file>config_8h_source.html</file>
+<file>debug__p_8h_source.html</file>
+<file>dir_49e56c817e5e54854c35e136979f97ca.html</file>
+<file>dir_68267d1309a1af8e8297ef4c3efbcdba.html</file>
+<file>dir_c85d3e3c5052e9ad9ce18c6863244a25.html</file>
+<file>dir_e3c1e5468dd7bba3296c8521f7373a77.html</file>
+<file>doxygen.css</file>
+<file>doxygen.svg</file>
+<file>dynsections.js</file>
+<file>functions.html</file>
+<file>functions_func.html</file>
+<file>gameio_8h_source.html</file>
+<file>gamepad__p_8h_source.html</file>
+<file>gamepadmanager__p_8h_source.html</file>
+<file>global_8h_source.html</file>
+<file>hierarchy.html</file>
+<file>import_2gamepad_8h_source.html</file>
+<file>import_2gamepadmanager_8h_source.html</file>
+<file>index.html</file>
+<file>jquery.js</file>
+<file>lib_2gamepad_8h_source.html</file>
+<file>lib_2gamepadmanager_8h_source.html</file>
+<file>menu.js</file>
+<file>menudata.js</file>
+<file>nav_f.png</file>
+<file>nav_fd.png</file>
+<file>nav_g.png</file>
+<file>nav_h.png</file>
+<file>nav_hd.png</file>
+<file>open.png</file>
+<file>search/all_0.js</file>
+<file>search/all_1.js</file>
+<file>search/all_10.js</file>
+<file>search/all_11.js</file>
+<file>search/all_12.js</file>
+<file>search/all_13.js</file>
+<file>search/all_2.js</file>
+<file>search/all_3.js</file>
+<file>search/all_4.js</file>
+<file>search/all_5.js</file>
+<file>search/all_6.js</file>
+<file>search/all_7.js</file>
+<file>search/all_8.js</file>
+<file>search/all_9.js</file>
+<file>search/all_a.js</file>
+<file>search/all_b.js</file>
+<file>search/all_c.js</file>
+<file>search/all_d.js</file>
+<file>search/all_e.js</file>
+<file>search/all_f.js</file>
+<file>search/classes_0.js</file>
+<file>search/close.svg</file>
+<file>search/functions_0.js</file>
+<file>search/functions_1.js</file>
+<file>search/functions_2.js</file>
+<file>search/functions_3.js</file>
+<file>search/functions_4.js</file>
+<file>search/functions_5.js</file>
+<file>search/functions_6.js</file>
+<file>search/functions_7.js</file>
+<file>search/functions_8.js</file>
+<file>search/functions_9.js</file>
+<file>search/functions_a.js</file>
+<file>search/mag.svg</file>
+<file>search/mag_d.svg</file>
+<file>search/mag_sel.svg</file>
+<file>search/mag_seld.svg</file>
+<file>search/pages_0.js</file>
+<file>search/search.css</file>
+<file>search/search.js</file>
+<file>search/searchdata.js</file>
+<file>splitbar.png</file>
+<file>splitbard.png</file>
+<file>sync_off.png</file>
+<file>sync_on.png</file>
+<file>tab_a.png</file>
+<file>tab_ad.png</file>
+<file>tab_b.png</file>
+<file>tab_bd.png</file>
+<file>tab_h.png</file>
+<file>tab_hd.png</file>
+<file>tab_s.png</file>
+<file>tab_sd.png</file>
+<file>tabs.css</file>
+</files>
+</filterSection>
+</QtHelpProject>
